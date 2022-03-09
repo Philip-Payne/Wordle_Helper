@@ -11,14 +11,14 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Wordle Solver</title>
+	<title>Wordle Helper</title>
 	<link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
 <div id="wrapper">
 
 	<header>
-		<h1>Wordle Solver</h1>
+		<h1>Wordle Helper</h1>
 	</header>
 
 	<main>

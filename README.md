@@ -15,5 +15,3 @@ Some setup guidance will be added in time but for now you need a little experien
 The reason for creating this helper is to give students an application where they can adjust the underlying algorithm and see the change in results.
 
 Currently the code finds the allowed words and then finds the frequency of each letter in each of the five positions. A list of the 100 highest ranking words is then returned. While this works perfectly well there are a number of ways that the algorithm could be improved this is left as an exercise for the reader!
-
-[![A test image](https://live.staticflickr.com/65535/51926919168_f076e17159_b.jpg)]
